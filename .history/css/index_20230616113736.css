@@ -301,9 +301,9 @@ h3{
  
 /* -------about us page------- */
 .about-us{
-    width: 60%;
+    width: 50%;
     margin: auto;
-    padding-top: 60px;
+    padding-top: 90px;
     padding-bottom: 100px;
 }
 .about-col{
@@ -335,7 +335,7 @@ h3{
 .cv{
     display: flex;
     justify-content: center;
-    padding-top: 2rem;
+    padding-top: 3rem;
 }
 .cv button{
     background-color: transparent;
