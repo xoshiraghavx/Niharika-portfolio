@@ -364,7 +364,6 @@ h3{
 @media(max-width: 700px){
     .about-us{
         width: 90%;
-        padding-top: 2rem;
     }
     .bar{
         display: grid;
@@ -397,8 +396,7 @@ h3{
     }
 }
 #organization{
-    background: #e0e0e055;
-    padding: 2rem 0;
+    background: #c3c3c355;
 }
 /* ----contact us----- */
 .location{
